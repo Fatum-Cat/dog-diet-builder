@@ -1,0 +1,42 @@
+nutrient_key,min,max,unit
+Protein,18,30,g/1000kcal
+fat,9,25,g/1000kcal
+Ash,,90,g/1000kcal
+CHO,,,
+Fiber,2,5,g/1000kcal
+Ca,0.6,3,g/1000kcal
+Iron,40,,mg/1000kcal
+Mg,150,1000,mg/1000kcal
+P,0.4,1.4,g/1000kcal
+K,1.5,4,g/1000kcal
+Na,0.08,3,g/1000kcal
+Zn,80,250,mg/1000kcal
+Cu,7.3,250,mg/1000kcal
+Iodine,1.5,50,mg/1000kcal
+Se,0.35,20,mg/1000kcal
+Thiamin,2.25,,mg/1000kcal
+Riboflavin,5.2,,mg/1000kcal
+Niacin,13.6,,mg/1000kcal
+Pantothenic acid,0.216,,mg/1000kcal
+B-6,1.5,,mg/1000kcal
+Folate,0.35,,mg/1000kcal
+Choline,1360,,mg/1000kcal
+B-12,0.028,,mg/1000kcal
+Vitamin A,5000,250000,IU/1000kcal
+Vitamin E,35,670,mg/1000kcal
+Vitamin D,500,5000,IU/1000kcal
+linoleic acid,1.1,,g/1000kcal
+alpha-linolenic acid,0.2,,g/1000kcal
+EPA,0.02,,g/1000kcal
+DHA,0.02,,g/1000kcal
+Tryptophan,0.16,,g/1000kcal
+Threonine,0.48,,g/1000kcal
+Isoleucine,0.38,,g/1000kcal
+Leucine,0.68,,g/1000kcal
+Lysine,0.63,,g/1000kcal
+Methionine,0.33,,g/1000kcal
+Cystine,,0.45,g/1000kcal
+Phenylalanine,0.45,,g/1000kcal
+Tyrosine,,,
+Valine,0.49,,g/1000kcal
+Arginine,0.51,,g/1000kcal
